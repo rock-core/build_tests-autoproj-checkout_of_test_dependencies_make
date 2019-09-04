@@ -1,3 +1,4 @@
 <package>
+    <depend name="base/cmake" />
     <test_depend package="build_tests/autoproj/checkout_of_test_dependencies_make-dep" />
 </package>
